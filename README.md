@@ -1,6 +1,6 @@
 #FLEXBOX
 
->This small repo is to explain the importance of using now flexbox css3 features.
+>This small repo explains the importance of using new flexbox css3 features.
 
 ###Tired of float, clear, static dimensions?
 
