@@ -6,11 +6,13 @@
 
 With a short block of code like this you can manage the html display quickly and safely.
 
-```html
+```css
+body{
 display: flex;
-flex-flow: row wrap;
+flex-flow: column wrap;
 justify-content: center;
 align-items: center;
+}
 ```
 
 Moreover it is compatible with almost all latest version browsers (desktop & mobile).
