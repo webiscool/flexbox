@@ -1,8 +1,8 @@
-#FLEXBOX
+# FLEXBOX
 
 >This small repo explains the importance of using new flexbox css3 features.
 
-###Tired of float, clear, static dimensions?
+### Tired of float, clear, static dimensions?
 
 With a short block of code like this you can manage the html display quickly and safely.
 
